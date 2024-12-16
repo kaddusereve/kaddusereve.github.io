@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - [KADDU SEREVE]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        h2 {
+            color: #16a085;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #16a085;
+            padding-bottom: 5px;
+        }
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        .table th, .table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        .table th {
+            background-color: #16a085;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>KADDU'S CURRICULLUM VITAE</h1>
+        
+        <div class="section">
+            <h2>Contact Information</h2>
+            <table class="table">
+                <tr>
+                    <th>Email</th>
+                    <td>serevekaddu@gmail.com</td>
+                </tr>
+                <tr>
+                    <th>Phone</th>
+                    <td>0742893030</td>
+                </tr>
+                <tr>
+                    <th>Address</th>
+                    <td>Masaka, Uganda</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>Education Background</h2>
+            <table class="table">
+                <tr>
+                    <th>Degree</th>
+                    <th>Institution</th>
+                    <th>Year of Graduation</th>
+                </tr>
+                <tr>
+                    <td>DIP. Information Technology</td>
+                    <td>Uganda Martyrs University</td>
+                    <td>Pending</td>
+                </tr>
+                <tr>
+                    <td>UACE</td>
+                    <td>Matale R/C Kalisizo</td>
+                    <td>2021-2023</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>Work Experience</h2>
+            <table class="table">
+                <tr>
+                    <th>Position</th>
+                    <th>Company</th>
+                    <th>Responsibilities</th>
+                </tr>
+                <tr>
+                    <td>Sales Agent</td>
+                    <td>Platinum Credit, Masaka</td>
+                    <td>
+                        <ul>
+                            <li>Converting clients</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Farm Manager</td>
+                    <td>Mbarara Dairy Farm, Mbarara</td>
+                    <td>
+                        <ul>
+                            <li>Managing farm inputs</li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
